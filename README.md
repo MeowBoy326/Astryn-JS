@@ -1,5 +1,6 @@
 # Astryn-JS
 
+> memoryTools, memorySearch, mouse, kayboard on Javascript, for Windows.
 > 集内存读写、内存检索、鼠标宏、键盘宏为一身的脚本开发工具。  
 > 适用于 Windows 平台。
 
