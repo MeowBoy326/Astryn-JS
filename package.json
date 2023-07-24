@@ -1,0 +1,21 @@
+{
+  "name": "astryn-js",
+  "version": "1.0.0",
+  "description": "Using JavaScript for memory reading and writing, memory address search, simulating mouse and keyboard operations, and controlling application windows.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test",
+    "install": "node-gyp rebuild"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChuXuanbbll/Astryn-JS.git"
+  },
+  "author": "chuxuan",
+  "license": "ISC",
+  "gypfile": true,
+  "bugs": {
+    "url": "https://github.com/ChuXuanbbll/Astryn-JS/issues"
+  },
+  "homepage": "https://github.com/ChuXuanbbll/Astryn-JS#readme"
+}
